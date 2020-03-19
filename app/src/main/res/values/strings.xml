@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KotlinRestaurantApp</string>
+    <string-array name="options">
+        <item>Food</item>
+        <item>Desserts</item>
+        <item>Stores</item>
+    </string-array>
+    <string-array name="food">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Chicken wings</item>
+    </string-array>
+
+</resources>
